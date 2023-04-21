@@ -6,4 +6,4 @@ streamlit.header('Breakfast')
 
 streamlit.text('oatmeal')
 streamlit.text('Milk')
-streamit.text('Cookies')
+streamlit.text('Cookies')
